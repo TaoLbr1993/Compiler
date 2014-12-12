@@ -1,0 +1,13 @@
+*.txt
+*.suo
+*.vcxproj
+*.filters
+*.sdf
+*.tlog
+*.lastbuildstate
+*.log
+*.obj
+*.idb
+*.pdb
+
+.github
